@@ -1,6 +1,6 @@
 [app]
-title = M
-package.name = myapp
+title = AAN
+package.name = YT.prt
 package.domain = org.example
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
